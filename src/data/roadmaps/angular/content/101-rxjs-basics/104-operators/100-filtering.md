@@ -5,3 +5,4 @@ RxJS provides a variety of filtering operators that you can use to filter and tr
 Visit the following resources to learn more:
 
 - [Understanding RxJS Operators](https://rxjs.dev/api/operators)
+- [Refer Angular Docs](https://angular.io/guide/rx-library)
